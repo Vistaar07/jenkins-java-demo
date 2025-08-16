@@ -2,6 +2,6 @@ package com.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello from Maven Project!");
+        System.out.println("Maven project built automatically by jenkins!!!");
     }
 }
